@@ -1,0 +1,11 @@
+d:\My Documents\C#\实体生成器\实体生成器\bin\Debug\实体生成器.exe
+d:\My Documents\C#\实体生成器\实体生成器\bin\Debug\实体生成器.pdb
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.Form1.resources
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.Properties.Resources.resources
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.csproj.GenerateResource.Cache
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.exe
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.pdb
+d:\My Documents\C#\实体生成器\实体生成器\obj\Debug\实体生成器.Form2.resources
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\实体生成器.exe
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\实体生成器.pdb

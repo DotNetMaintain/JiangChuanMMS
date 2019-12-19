@@ -1,0 +1,6 @@
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\obj\Release\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\bin\Release\Maticsoft.Common.dll
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\bin\Release\COM.Excel.dll
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\bin\Release\Excel.dll
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\bin\Release\OpenSmtp.dll
+D:\360data\重要数据\桌面\NET公共类库\Common\Common\obj\Release\Maticsoft.Common.dll

@@ -1,0 +1,49 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<script type="text/javascript">
+    //开始处理
+    function BeginTrans(msg) {
+        WriteText(msg);
+    }
+    //设置进度条进度
+    function SetPorgressBar(msg, pos) {
+        ProgressBar.style.width = pos + "%";
+        WriteText(msg + " 已完成" + pos + "%");
+    }
+    //处理结束
+    function EndTrans(msg) {
+        if (msg == "")
+            WriteText("完成。");
+        else
+            WriteText(msg);
+    }
+    //设置时间信息
+    function SetTimeInfo(msg) {
+        WriteText(msg);
+    }
+    // 更新文本显示信息
+    function WriteText(str) {
+        var strTag = '<font face="Verdana, Arial, Helvetica" size="2" color="#ea9b02"><B>' + str + '</B></font>';
+        document.getElementById("Msg2").innerHTML = strTag;
+    }
+</script>
+</head>
+<body>
+<table align="center" style="height:100%">
+    <tr style="height:45%"><td></td></tr>
+    <tr>
+        <td>
+            <div id="ProgressBarSide" style="width:300px; color:Silver;border-width:1px; border-style:Solid;">
+                <div id="ProgressBar" align="center" style="height:20px; width:0%; background-color:#316AC5;"></div>
+            </div>
+        </td>
+        <td>
+        <div id="Msg2" style="height:16px;"></div>
+        </td>
+    </tr>
+    <tr style="height:50%"><td></td></tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="RM_DB" Class="RM_DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=THINKPAD-PC;Initial Catalog=RM_DB;Persist Security Info=True;User ID=sa" SettingsObjectName="RM.Busines.Properties.Settings" SettingsPropertyName="RM_DBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Base_DictionaryInfo" Member="Base_DictionaryInfo">
+    <Type Name="Base_DictionaryInfo">
+      <Column Name="DictionaryInfo_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TypeCode" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="TypeName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ValueCode" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="ValueName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Operator" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="OperateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

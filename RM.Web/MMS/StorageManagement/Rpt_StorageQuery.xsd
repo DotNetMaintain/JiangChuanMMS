@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Rpt_StorageQuery"
+    targetNamespace="http://tempuri.org/Rpt_StorageQuery.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Rpt_StorageQuery.xsd"
+    xmlns:mstns="http://tempuri.org/Rpt_StorageQuery.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+
+  <xs:element name="StorageQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PurchaseBillCode" type="xs:string" />
+        <xs:element name="InvoiceCode" type="xs:string" />
+        <xs:element name="Material_Type" type="xs:string" />
+        <xs:element name="ProductCode" type="xs:string" />
+        <xs:element name="Material_Name" type="xs:string" />
+        <xs:element name="Material_Specification" type="xs:string" />
+        <xs:element name="Material_Unit" type="xs:string" />
+        <xs:element name="Material_Supplier" type="xs:string" />
+        <xs:element name="Lot" type="xs:string" />
+        <xs:element name="Price" type="xs:int" />
+        <xs:element name="Quantity" type="xs:double" />
+        <xs:element name="Amount" type="xs:double" />
+        <xs:element name="PurchaseDate" type="xs:string" />
+        <xs:element name="invoicedate" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

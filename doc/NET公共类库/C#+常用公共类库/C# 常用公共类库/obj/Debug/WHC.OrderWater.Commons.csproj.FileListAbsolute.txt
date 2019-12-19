@@ -1,0 +1,7 @@
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\WHC.OrderWater.Commons.csproj.ResolveComReference.cache
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\WHC.OrderWater.Commons.CoolPrintPreviewDialog.resources
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\WHC.OrderWater.Commons.PrintOptions.resources
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\360data\重要数据\桌面\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\360data\重要数据\桌面\资料\NET公共类库\C#+常用公共类库\C# 常用公共类库\obj\Debug\ResolveAssemblyReference.cache

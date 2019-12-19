@@ -1,0 +1,10 @@
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\bin\Release\sql.exe
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\bin\Release\sql.pdb
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.FrmSelectTabel.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.MyGenerator.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.FrmSelectMethod.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.FrmDBHelp.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.Properties.Resources.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.csproj.GenerateResource.Cache
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.exe
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Release\sql.pdb

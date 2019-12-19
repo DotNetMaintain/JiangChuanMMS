@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="xml_MatStoreQuery"
+    targetNamespace="http://tempuri.org/xml_MatStoreQuery.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/xml_MatStoreQuery.xsd"
+    xmlns:mstns="http://tempuri.org/xml_MatStoreQuery.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="MatStoreQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Material_type" type="xs:string" />
+        <xs:element name="Material_Name" type="xs:string" />
+        <xs:element name="Material_CommonlyName" type="xs:string" />
+        <xs:element name="qua" type="xs:float" />
+        <xs:element name="price" type="xs:float" />
+        <xs:element name="amount" type="xs:float" />
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  
+</xs:schema>

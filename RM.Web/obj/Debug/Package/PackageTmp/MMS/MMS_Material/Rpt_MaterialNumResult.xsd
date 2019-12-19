@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Rpt_MaterialNumResult"
+    targetNamespace="http://tempuri.org/Rpt_MaterialNumResult.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Rpt_MaterialNumResult.xsd"
+    xmlns:mstns="http://tempuri.org/Rpt_MaterialNumResult.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+
+  <xs:element name="MaterialNumResult">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="toptype" type="xs:string" />
+        <xs:element name="midtype" type="xs:string" />
+        <xs:element name="Material_Name" type="xs:string" />
+        <xs:element name="price" type="xs:float" />
+        <xs:element name="lastqua" type="xs:float" />
+        <xs:element name="lastamount" type="xs:float" />
+        <xs:element name="inqua" type="xs:float" />
+        <xs:element name="inamount" type="xs:float" />
+        <xs:element name="reqqua" type="xs:float" />
+        <xs:element name="reqamount" type="xs:float" />
+        <xs:element name="curqua" type="xs:float" />
+        <xs:element name="curamount" type="xs:float" />
+        <xs:element name="createdatetime" type="xs:string" />
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  
+  
+</xs:schema>

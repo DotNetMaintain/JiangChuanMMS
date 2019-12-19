@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FinanceTotal"
+    targetNamespace="http://tempuri.org/FinanceTotal.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/FinanceTotal.xsd"
+    xmlns:mstns="http://tempuri.org/FinanceTotal.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+
+  <xs:element name="FinanceTotal">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DeptName" type="xs:string" />
+        <xs:element name="低值易耗品" type="xs:float" />
+        <xs:element name="其他材料" type="xs:float" />
+        <xs:element name="其他耗材" type="xs:float" />
+        <xs:element name="卫生材料" type="xs:float" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+</xs:schema>

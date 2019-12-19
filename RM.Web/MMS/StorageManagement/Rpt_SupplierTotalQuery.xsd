@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Rpt_SupplierTotalQuery"
+    targetNamespace="http://tempuri.org/Rpt_SupplierTotalQuery.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Rpt_SupplierTotalQuery.xsd"
+    xmlns:mstns="http://tempuri.org/Rpt_SupplierTotalQuery.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+
+  <xs:element name="SupplierTotalQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PurchaseDate" type="xs:string" />
+        <xs:element name="Material_Supplier" type="xs:string" />
+        <xs:element name="InvoiceCode" type="xs:string" />
+        <xs:element name="Amount" type="xs:double" />
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+</xs:schema>

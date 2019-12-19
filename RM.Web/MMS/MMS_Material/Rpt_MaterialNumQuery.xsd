@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Rpt_MaterialNumQuery"
+    targetNamespace="http://tempuri.org/Rpt_MaterialNumQuery.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Rpt_MaterialNumQuery.xsd"
+    xmlns:mstns="http://tempuri.org/Rpt_MaterialNumQuery.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+
+  <xs:element name="MaterialNumQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="material_type" type="xs:string" />
+        <xs:element name="Material_ID" type="xs:string" />
+        <xs:element name="Material_Name" type="xs:string" />
+        <xs:element name="Price" type="xs:float" />
+        <xs:element name="lastquantity" type="xs:float" />
+        <xs:element name="lastamount" type="xs:float" />
+        <xs:element name="storequantity" type="xs:float" />
+        <xs:element name="storeamount" type="xs:float" />
+        <xs:element name="reqquantity" type="xs:float" />
+        <xs:element name="reqamount" type="xs:float" />
+        <xs:element name="quantity" type="xs:float" />
+        <xs:element name="amount" type="xs:float" />
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  
+  
+</xs:schema>

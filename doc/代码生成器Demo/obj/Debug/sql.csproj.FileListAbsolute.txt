@@ -1,0 +1,142 @@
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.Form1.resources
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.Form2.resources
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.Form3.resources
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.csproj.GenerateResource.Cache
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.Properties.Resources.resources
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\bin\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\bin\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\实体生成器\实体生成器\obj\Debug\sql.sqlAutoInsert.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.Form1.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.Form2.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.Form3.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.Properties.Resources.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.sqlAutoInsert.resources
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\obj\Debug\sql.csproj.GenerateResource.Cache
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\bin\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\动态生成SQL语句\实体生成器\bin\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\bin\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\bin\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.Form1.resources
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.Form2.resources
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.Form3.resources
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.Properties.Resources.resources
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.sqlAutoInsert.resources
+D:\南方学院上机资料\C# 资料\C#\复件 动态生成SQL语句\实体生成器\obj\Debug\sql.csproj.GenerateResource.Cache
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\bin\Debug\sql.exe
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\bin\Debug\sql.pdb
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.Form1.resources
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.Form2.resources
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.Form3.resources
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.Properties.Resources.resources
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.sqlAutoInsert.resources
+D:\南方学院上机资料\C# 资料\C#\多功能生成器\实体生成器\obj\Debug\sql.csproj.GenerateResource.Cache
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.exe
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.pdb
+D:\项目\个人项目\多功能生成器\实体生成器\bin\Debug\sql.exe
+D:\项目\个人项目\多功能生成器\实体生成器\bin\Debug\sql.pdb
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.Properties.Resources.resources
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.MyGenerator.resources
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectTabel.resources
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectMethod.resources
+D:\项目\个人项目\多功能生成器\实体生成器\obj\Debug\sql.FrmDBHelp.resources
+F:\MyLife\多功能生成器\实体生成器\bin\Debug\sql.exe
+F:\MyLife\多功能生成器\实体生成器\bin\Debug\sql.pdb
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectTabel.resources
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.MyGenerator.resources
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectMethod.resources
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmDBHelp.resources
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.Properties.Resources.resources
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.exe
+F:\MyLife\多功能生成器\实体生成器\obj\Debug\sql.pdb
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\bin\Debug\sql.exe
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\bin\Debug\sql.pdb
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\ResolveAssemblyReference.cache
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectTabel.resources
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.MyGenerator.resources
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmSelectMethod.resources
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.FrmDBHelp.resources
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.Properties.Resources.resources
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.exe
+E:\MyPorject\个人管理系统\个人管理系统1.3版\MyLife\多功能生成器\实体生成器\obj\Debug\sql.pdb
+E:\MyLife\MyTools\bin\Debug\sql.exe
+E:\MyLife\MyTools\bin\Debug\sql.pdb
+E:\MyLife\MyTools\obj\Debug\ResolveAssemblyReference.cache
+E:\MyLife\MyTools\obj\Debug\sql.FrmSelectTabel.resources
+E:\MyLife\MyTools\obj\Debug\sql.MyGenerator.resources
+E:\MyLife\MyTools\obj\Debug\sql.FrmSelectMethod.resources
+E:\MyLife\MyTools\obj\Debug\sql.FrmDBHelp.resources
+E:\MyLife\MyTools\obj\Debug\sql.Properties.Resources.resources
+E:\MyLife\MyTools\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\MyLife\MyTools\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\MyLife\MyTools\obj\Debug\sql.exe
+E:\MyLife\MyTools\obj\Debug\sql.pdb
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.exe
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.pdb
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\bin\Debug\sql.exe
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\bin\Debug\sql.pdb
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.FrmSelectTabel.resources
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.MyGenerator.resources
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.FrmSelectMethod.resources
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.FrmDBHelp.resources
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.Properties.Resources.resources
+E:\项目\wwb调试\审核后台源码\三层生成器\MyTools\obj\Debug\sql.csproj.GenerateResource.Cache
+E:\项目\wwb调试\审核后台源码\三层生成器\src\obj\Debug\sql.exe
+E:\项目\wwb调试\审核后台源码\三层生成器\src\obj\Debug\sql.pdb
+D:\360data\重要数据\桌面\51aspx_YLThreeCodeGenerator89777014-30ec-4853-9fc2-bcc4d2c57d2c\obj\Debug\sql.exe
+D:\360data\重要数据\桌面\51aspx_YLThreeCodeGenerator89777014-30ec-4853-9fc2-bcc4d2c57d2c\obj\Debug\sql.pdb
+D:\360data\重要数据\桌面\代码生成器\obj\Debug\sql.exe
+D:\360data\重要数据\桌面\代码生成器\obj\Debug\sql.pdb
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.exe
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.pdb
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\bin\Debug\sql.exe
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\bin\Debug\sql.pdb
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.FrmSelectTabel.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.MyGenerator.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.FrmSelectMethod.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.FrmDBHelp.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.Properties.Resources.resources
+D:\MyProject\通用权限管理\发布版本\doc\代码生成器Demo\obj\Debug\sql.csproj.GenerateResource.Cache
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.exe
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.pdb
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\bin\Debug\sql.exe
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\bin\Debug\sql.pdb
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmSelectTabel.resources
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.MyGenerator.resources
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmSelectMethod.resources
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmDBHelp.resources
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.Properties.Resources.resources
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\doc\代码生成器Demo\obj\Debug\sql.csproj.GenerateResource.Cache
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\bin\Debug\sql.exe
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\bin\Debug\sql.pdb
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.csprojResolveAssemblyReference.cache
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmSelectTabel.resources
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.MyGenerator.resources
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmSelectMethod.resources
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.FrmDBHelp.resources
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.Properties.Resources.resources
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.csproj.GenerateResource.cache
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.csproj.CoreCompileInputs.cache
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.exe
+E:\合作项目\牙防\物资\MMS\江川code\Material Management System\doc\代码生成器Demo\obj\Debug\sql.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Rpt_MaterialTypeTotal"
+    targetNamespace="http://tempuri.org/Rpt_MaterialTypeTotal.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Rpt_MaterialTypeTotal.xsd"
+    xmlns:mstns="http://tempuri.org/Rpt_MaterialTypeTotal.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="MaterialTypeTotalQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Material_type" type="xs:string" />
+        <xs:element name="Material_name" type="xs:string" />
+        <xs:element name="ReceivePrice" type="xs:double" />
+        <xs:element name="InStoragePrice" type="xs:double" />
+        <xs:element name="LastMonthBalancePrice" type="xs:double" />
+ 
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

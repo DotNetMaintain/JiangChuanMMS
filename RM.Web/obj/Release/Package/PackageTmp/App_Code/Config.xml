@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appSettings>
+  <add key="ConStringEncrypt" value="false" />
+  <add key="SqlServer_RM_DB" value="Server=115.159.93.175;Database=JCRM_DB;Uid=sa;Pwd=Zhishunltd123456" />
+  <!--<add key="SqlServer_RM_DB" value="Server=10.98.164.16;Database=RM_Db;Uid=sa;Pwd=sa" />-->
+  <add key="CurrentUserName" value="Administrator" />
+  <add key="CurrentPassword" value="2A1B132C0E64FA299B014B39F7DE5C2F" />
+  <add key="IsCache" value="false" />
+  <add key="TimeCache" value="30" />
+  <add key="IsRestartIIS" value="false" />
+  <add key="RestartIISTime" value="22:33:00" />
+  <add key="LogIsWrite" value="true" />
+  <add key="LogFilePath" value="D:\SysLog" />
+  <add key="IsRecoverData" value="false" />
+  <add key="IsBackupsData" value="false" />
+  <add key="BackupsDataTime" value="05:00:00" />
+  <add key="BackupsDataPath" value="D:\DataBackups" />
+  <add key="ErrorReportMailUserName" value="5699487@qq.com" />
+  <add key="RegistrationCode" value="2A1B132C0E64FA299B014B39F7DE5C2F" />
+  <add key="CustomerCompanyName" value="上海智顺科技有限公司" />
+  <add key="SoftName" value="物资管理系统平台" />
+  <add key="UpLoad" value="F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\RM.Web\Upload" />
+  <add key="reportPath" value=""/>
+  <add key="Version" value="2.0" />
+  <add key="CrystalImageCleaner-AutoStart" value="true" />
+  <add key="CrystalImageCleaner-Sleep" value="60000" />
+  <add key="CrystalImageCleaner-Age" value="120000" />
+</appSettings>

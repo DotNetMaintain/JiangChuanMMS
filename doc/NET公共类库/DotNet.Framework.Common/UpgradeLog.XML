@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DotNet.Framework.Common-vs2008">
+</Property><Property Name="解决方案文件" Value="E:\工作目录\CodePlex\DotNet.Framework.Common\DotNet.Framework.Common-vs2008.sln">
+</Property><Property Name="Date" Value="2011年10月23日星期日">
+</Property><Property Name="Time" Value="11:51:41">
+</Property></Properties><Event ErrorLevel="0" Project="DotNet.Framework.Common" Source="DotNet.Framework.Common\DotNet.Framework.Common.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DotNet.Framework.Common" Source="DotNet.Framework.Common\DotNet.Framework.Common.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotNet.Framework.Common" Source="DotNet.Framework.Common\DotNet.Framework.Common.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

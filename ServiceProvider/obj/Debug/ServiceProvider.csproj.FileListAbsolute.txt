@@ -1,0 +1,4 @@
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\ServiceProvider\bin\Debug\ServiceProvider.dll
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\ServiceProvider\bin\Debug\ServiceProvider.pdb
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\ServiceProvider\obj\Debug\ServiceProvider.dll
+F:\soft\数据库\ASP.NET通用权限管理系统源代码（含文档、数据库）\Material Management System\ServiceProvider\obj\Debug\ServiceProvider.pdb
